@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//jacnax.github.io/test-app-web/static/css/main.ef46d21d.css",
+    "main.js": "/https//jacnax.github.io/test-app-web/static/js/main.5f05727b.js",
+    "index.html": "/https//jacnax.github.io/test-app-web/index.html",
+    "main.ef46d21d.css.map": "/https//jacnax.github.io/test-app-web/static/css/main.ef46d21d.css.map",
+    "main.5f05727b.js.map": "/https//jacnax.github.io/test-app-web/static/js/main.5f05727b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef46d21d.css",
+    "static/js/main.5f05727b.js"
+  ]
+}
